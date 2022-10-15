@@ -4,7 +4,7 @@
 ## CLI References
 - Docker command line (https://docs.docker.com/engine/reference/commandline/cli/ Estimated reading time: 17 minutes) 
 ```
-
+docker
 ```
 - Container commands (https://docs.docker.com/engine/reference/commandline/container/)
 ```
