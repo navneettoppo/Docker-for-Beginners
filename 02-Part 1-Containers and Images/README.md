@@ -22,3 +22,10 @@ docker
 docker container --help
 docker container run --help
 ```
+
+## RUnning one-time Container
+- It is the process running inside the container that run in a docker container that determines how long it will run. Once the process completes the docker container will exits
+
+```
+docker run alpine hostname
+```
